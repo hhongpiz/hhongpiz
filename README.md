@@ -30,7 +30,7 @@
 ## 🎈 My Page 🎈
 
 [<img src="https://img.shields.io/badge/Tstory-ffd500?style=for-the-badge">](https://hhongpizzz.tistory.com/)  
-
+[<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">](https://tasty-visitor-52e.notion.site/Data-Engineer-Hong-Hyojeong-22f717b7625348c8bf7b10df2f2b2a19)
 <br>  
 
 
