@@ -27,7 +27,7 @@
 
 <br>   
 
-## 🎈 MY PAGE 🎈
+## 🎈 My Page 🎈
 
 [<img src="https://img.shields.io/badge/Tstory-ffd500?style=for-the-badge">](https://hhongpizzz.tistory.com/)  
 
